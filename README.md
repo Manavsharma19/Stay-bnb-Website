@@ -1,3 +1,3 @@
 # Stay-bnb-Website
-I made this website (similar to air bnb).
+Stay-bnb-website is similar to air bnb website.
 This is a static website, which I made to practice html and css.
